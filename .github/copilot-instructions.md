@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This project is a Python-based application that extracts data from Notion using its API, processes the data, and sends email reports. The project is modular, with separate files for Notion API integration, data processing, and email sending.
